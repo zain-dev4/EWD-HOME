@@ -63,7 +63,7 @@
     position: absolute;
     top: 53px;
     border: 5px solid white;
-    left: 83px;
+    left: 26.6%;
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.2), 0 0 10px 1px gray;
 }
 
@@ -275,7 +275,7 @@
 
 .bg-footer {
     background-image: url("../images/form.jpg");
-    padding: 10px;
+  
 }
 
 .nav-items-design {
@@ -923,11 +923,11 @@ font-size: 2.5rem;
 
 @media screen and (max-width:1800px) {
    
-    .mu-ml-8per
+    /* .mu-ml-8per
     {
         margin-left: 8% !important;
         max-width: 89% !important;
-    }
+    } */
 
     .mu-ml-55px
     {
@@ -935,10 +935,10 @@ font-size: 2.5rem;
         
     }
 
-    .mu-pl-105px
+    /* .mu-pl-105px
     {
         padding-left: 105px;
-    }
+    } */
 
 
 
@@ -947,11 +947,11 @@ font-size: 2.5rem;
 
 @media screen and (max-width:1920px) {
    
-    .mu-ml-8per
+    /* .mu-ml-8per
     {
         margin-left: 8% !important;
         max-width: 92% !important;
-    }
+    } */
 
     .mu-ml-55px
     {
@@ -961,7 +961,7 @@ font-size: 2.5rem;
 
     .mu-pl-105px
     {
-        padding-left: 195px;
+        padding-left: 80px;
     }
 
     .mu-pl-75

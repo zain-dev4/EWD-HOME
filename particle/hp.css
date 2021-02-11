@@ -7,7 +7,7 @@
       #particles-js {
         background-image: url('../images/Artboard\ 2\ copy.png');
       background-repeat: no-repeat;
-      background-size: cover;
+      background-size: contain  ;
       max-width: 100%;
       height: auto;
         

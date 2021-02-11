@@ -298,7 +298,7 @@ a {
 
 .bg-footer {
     background-image: url("../images/form.jpg");
-    padding: 10px;
+  
 }
 @media screen and (max-width:954px) {
     .box-styles{
