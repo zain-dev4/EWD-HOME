@@ -111,7 +111,7 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
                 <li class="nav-item mr-4 " role="presentation " id="navbarid3"><a class="nav-link font-25 nav-link-design" href="portfolio.html">Portfolio</a></li>
                 <li class="nav-item mr-4  " role="presentation " id="navbarid4"><a class="nav-link font-25 nav-link-design" href="blog.html">Blog</a></li>
                 <li class="nav-item mr-4 " role="presentation " id="navbarid5"><a class="nav-link  font-25 nav-link-design" href="contact.html">Contact</a></li>
-                <li class="nav-item mr-4  " role="presentation ">
+                <li class="nav-item mr-4  " role="presentation "  id="navbarid6">
                     <a class="nav-link font-25 nav-link-design" href="about.html">About US</a>
                 </li>
             </ul>
