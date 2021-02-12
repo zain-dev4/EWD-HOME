@@ -106,12 +106,12 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
         <a class="navbar-brand" href="#"></a><button data-toggle="collapse" class="navbar-toggler text-info" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon  fa fa-bars text-dark"></span></button>
         <div class="collapse navbar-collapse" id="navcol-1">
             <ul class="nav navbar-nav ml-auto">
-                <li class="nav-item  mr-4  " role="presentation  "><a class="nav-link font-25 nav-link-design " href="index.html">Home</a></li>
-                <li class="nav-item mr-4" role="presentation "><a class="nav-link font-25 nav-link-design" href="services.html">Services</a></li>
-                <li class="nav-item mr-4" role="presentation "><a class="nav-link font-25 nav-link-design" href="portfolio.html">Portfolio</a></li>
-                <li class="nav-item mr-4 " role="presentation "><a class="nav-link font-25 nav-link-design" href="blog.html">Blog</a></li>
-                <li class="nav-item mr-4" role="presentation "><a class="nav-link  font-25 nav-link-design" href="contact.html">Contact</a></li>
-                <li class="nav-item mr-4 " role="presentation ">
+                <li class="nav-item  mr-4  " role="presentation " id="navbarid1"><a class="nav-link font-25 nav-link-design " href="index.html" >Home</a></li>
+                <li class="nav-item mr-4 " role="presentation " id="navbarid2"><a class="nav-link font-25 nav-link-design" href="services.html">Services</a></li>
+                <li class="nav-item mr-4 " role="presentation " id="navbarid3"><a class="nav-link font-25 nav-link-design" href="portfolio.html">Portfolio</a></li>
+                <li class="nav-item mr-4  " role="presentation " id="navbarid4"><a class="nav-link font-25 nav-link-design" href="blog.html">Blog</a></li>
+                <li class="nav-item mr-4 " role="presentation " id="navbarid5"><a class="nav-link  font-25 nav-link-design" href="contact.html">Contact</a></li>
+                <li class="nav-item mr-4  " role="presentation ">
                     <a class="nav-link font-25 nav-link-design" href="about.html">About US</a>
                 </li>
             </ul>
