@@ -109,7 +109,7 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
                 <li class="nav-item  mr-4  " role="presentation  "><a class="nav-link font-25 nav-link-design " href="index.html">Home</a></li>
                 <li class="nav-item mr-4" role="presentation "><a class="nav-link font-25 nav-link-design" href="services.html">Services</a></li>
                 <li class="nav-item mr-4" role="presentation "><a class="nav-link font-25 nav-link-design" href="portfolio.html">Portfolio</a></li>
-                <li class="nav-item mr-4 border-bottom-style" role="presentation "><a class="nav-link font-25 nav-link-design" href="blog.html">Blog</a></li>
+                <li class="nav-item mr-4 " role="presentation "><a class="nav-link font-25 nav-link-design" href="blog.html">Blog</a></li>
                 <li class="nav-item mr-4" role="presentation "><a class="nav-link  font-25 nav-link-design" href="contact.html">Contact</a></li>
                 <li class="nav-item mr-4 " role="presentation ">
                     <a class="nav-link font-25 nav-link-design" href="about.html">About US</a>
