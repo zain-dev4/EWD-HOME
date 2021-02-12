@@ -394,8 +394,7 @@
         width: 50% !important;
         position: absolute;
         top: 0%;
-        /* height: 65vh; */
-        height: 500px;
+        height: 65vh;
         left: 46%;
     }
     .cumputer-image {
