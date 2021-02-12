@@ -351,13 +351,13 @@
 
 .fixed-h-w {}
 
-.imag-column {
+/* .imag-column {
     width: 50% !important;
     position: absolute;
     top: 20%;
     height: 65vh;
     left: 46%;
-}
+} */
 
 .cumputer-image {
     position: absolute!important;
@@ -393,8 +393,9 @@
     .imag-column {
         width: 50% !important;
         position: absolute;
-        top: 16%;
-        height: 65vh;
+        top: 0%;
+        /* height: 65vh; */
+        height: 500px;
         left: 46%;
     }
     .cumputer-image {
