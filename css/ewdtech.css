@@ -449,6 +449,15 @@
         width: 90%;
         height: 12%!important;
     }
+    .pr-25{
+        padding-right: 20px;
+    }
+    .card-footer{
+        height: 157px;
+    }
+    .circle {
+        left: 21.6%
+    }
 }
 
 @media screen and (max-width:991px) {

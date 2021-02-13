@@ -30,23 +30,23 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
     <div class=" ">
 
 
-        <h1 class="text-dark animate__animated animate__bounce animate__delay-3s mt-2 mb-4">QUICK LINKS</h1>
+        <h1 class="text-darkanimate__animated animate__bounce animate__delay-3s mt-2 mb-4">QUICK LINKS</h1>
 
         <ul style="list-style-type:circle; margin-left: 10%;" class="list-unstyled para-height-40">
-            <li class="" data-aos="fade-up" data-aos-delay="1200" data-aos-duration="200">
+            <li class="" >
                 <a  class="nav-link-design" href="index.html">WEB  DEVLOPMENT <span class="sr-only">(current)</span></a>
             </li>
-            <li class="" data-aos="fade-up" data-aos-delay="1400" data-aos-duration="200">
+            <li class="" >
                 <a  class="nav-link-design" href="services.html">SERVIECE</a>
             </li>
 
-            <li class="" data-aos="fade-up" data-aos-delay="1600" data-aos-duration="200">
+            <li class="" >
                 <a  class="nav-link-design disabled" href="portfolio.html">PORTFOLIO</a>
             </li>
-            <li class="" data-aos="fade-up" data-aos-delay="1800" data-aos-duration="200">
+            <li class="" >
                 <a  class="nav-link-design" href="about.html">ABOUT US</a>
             </li>
-            <li class="" data-aos="fade-up" data-aos-delay="2000" data-aos-duration="200">
+            <li class="" >
                 <a  class="nav-link-design" href="index.html">HOME <span class="sr-only">(current)</span></a>
             </li>
          
@@ -57,19 +57,19 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
         </ul>
     </div>
     <div class="">
-        <h1 class="text-dark animate__animated animate__bounce animate__delay-3s mt-2 mb-4">CONTACT US</h1>
+        <h1 class="text-dark  mt-2 mb-4">CONTACT US</h1>
         <ul class="list-unstyled">
-            <li class="para-height-last" data-aos="fade-up" data-aos-delay="1200" data-aos-duration="200">
+            <li class="para-height-last" >
                 <a  class="nav-link-design" href="index.html"><i class="fa fa-envelope "></i> support@ewdtech.com <span class="sr-only">(current)</span></a>
             </li>
-            <li class="para-height-last" data-aos="fade-up" data-aos-delay="1400" data-aos-duration="200">
+            <li class="para-height-last" >
                 <a  class="nav-link-design" href="services.html"><i class="fa fa-phone "></i>+92 333 2793279</a>
             </li>
 
-            <li class="para-height-last" data-aos="fade-up" data-aos-delay="1600" data-aos-duration="200">
+            <li class="para-height-last" >
                 <a  class="nav-link-design disabled" href="#"> <i class="fa fa-skype  "></i> maqsood890</a>
             </li>
-            <li class="para-height-last" data-aos="fade-up" data-aos-delay="1800" data-aos-duration="200">
+            <li class="para-height-last" >
                 <a  class="nav-link-design disabled" href="#"><i class="fa fa-map-marker"></i> 5th floor, mezan executive tower, Faisalabad</a>
             </li>
 
