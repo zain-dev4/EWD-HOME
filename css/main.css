@@ -8,9 +8,9 @@
 } */
 
 .navbar-nav {
-    margin-inline-start: auto;
-    width: 55rem;
-    padding-top: 12px;
+    margin-inline-start: auto !important;
+    width: 55rem !important;
+    padding-top: 12px !important;
 }
 .h-180{
     height: 180px;
