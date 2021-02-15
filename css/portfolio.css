@@ -113,6 +113,8 @@
 
 
       }
+
+
     /* end */
     .nav-items-design {
         background: -webkit-linear-gradient(#02A3F4, #02A3F4, #007EDB);
@@ -182,7 +184,14 @@
         }
     }
 
+    @media (min-width: 576px){
 
+        .modal-dialog {
+            max-width: 550px !important;
+            margin: 1.75rem auto;
+        }
+    } 
+   
    
     
     @media screen and (max-width:768px) {
