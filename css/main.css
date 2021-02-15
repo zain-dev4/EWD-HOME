@@ -6,3 +6,12 @@
 /* .active, .nav-item:hover {
        border-bottom: 1px solid red; 
 } */
+
+.navbar-nav {
+    margin-inline-start: auto;
+    width: 55rem;
+    padding-top: 12px;
+}
+.h-180{
+    height: 180px;
+}

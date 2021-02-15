@@ -13,9 +13,9 @@
 }
 
 .navbar-nav {
-    margin-inline-start: auto;
+    /* margin-inline-start: auto;
     width: 56rem;
-    padding-top: 12px;
+    padding-top: 12px; */
 }
 
 #cloud {
@@ -479,7 +479,7 @@
 }
 
 .set-card-for-small-screen {
-    margin-top: 7rem;
+    margin-top: 3rem;
 }
 
 @media screen and (max-width:991px) {

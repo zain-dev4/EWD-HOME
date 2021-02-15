@@ -100,21 +100,24 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
    
    
    
-    document.getElementById("navbar").innerHTML=` <nav class=" ml-3 mr-3 navbar navbar-dark navbar-expand-lg" id="app-navbar">
+    document.getElementById("navbar").innerHTML=` <nav class=" ml-3 mr-3 navbar navbar-dark navbar-expand-lg " id="app-navbar">
     <div class="container-fluid">
         <img src="./images/logo-8.png">
         <a class="navbar-brand" href="#"></a><button data-toggle="collapse" class="navbar-toggler text-info" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon  fa fa-bars text-dark"></span></button>
         <div class="collapse navbar-collapse" id="navcol-1">
-            <ul class="nav navbar-nav ml-auto">
-                <li class="nav-item  mr-4  " role="presentation " id="navbarid1"><a class="nav-link font-25 nav-link-design " href="index.html" >Home</a></li>
-                <li class="nav-item mr-4 " role="presentation " id="navbarid2"><a class="nav-link font-25 nav-link-design" href="services.html">Services</a></li>
-                <li class="nav-item mr-4 " role="presentation " id="navbarid3"><a class="nav-link font-25 nav-link-design" href="portfolio.html">Portfolio</a></li>
-                <li class="nav-item mr-4  " role="presentation " id="navbarid4"><a class="nav-link font-25 nav-link-design" href="blog.html">Blog</a></li>
-                <li class="nav-item mr-4 " role="presentation " id="navbarid5"><a class="nav-link  font-25 nav-link-design" href="contact.html">Contact</a></li>
-                <li class="nav-item mr-4  " role="presentation "  id="navbarid6">
-                    <a class="nav-link font-25 nav-link-design" href="about.html">About US</a>
+            <ul class="nav navbar-nav ml-auto justify-content-around pl-5 pr-5">
+                <li class="nav-item    " role="presentation " id="navbarid1"><a class="nav-link font-25 nav-link-design p-0" href="index.html" >Home</a></li>
+                <li class="nav-item  " role="presentation " id="navbarid2"><a class="nav-link font-25 nav-link-design p-0" href="services.html">Services</a></li>
+                <li class="nav-item  " role="presentation " id="navbarid3"><a class="nav-link font-25 nav-link-design p-0" href="portfolio.html">Portfolio</a></li>
+                <li class="nav-item   " role="presentation " id="navbarid4"><a class="nav-link font-25 nav-link-design p-0" href="blog.html">Blog</a></li>
+                <li class="nav-item  " role="presentation " id="navbarid5"><a class="nav-link  font-25 nav-link-design p-0" href="contact.html">Contact</a></li>
+                <li class="nav-item   " role="presentation "  id="navbarid6">
+                    <a class="nav-link font-25 nav-link-design p-0" href="about.html">About US</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>`;
+
+
+
