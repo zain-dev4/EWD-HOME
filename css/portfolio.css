@@ -53,10 +53,17 @@
         margin: auto;
         display: block;
         width: 100%;
-        max-width: 700px;
+        /* max-width: 700px; */
         background-color: transparent;
       }
-      
+      @media (min-width: 576px){
+.modal-dialog {
+    max-width: 100% !important;
+    margin: 0px !important;
+    padding: 80px;
+    margin-top: -171px !important;
+}
+
       /* Caption of Modal Image */
       #caption {
         margin: auto;
@@ -118,7 +125,7 @@
       @media only screen and (min-width: 1300px){
         .close {
             top: -7% !important;
-            right: -63% !important;
+            right: 0% !important;
 
         }
 
@@ -206,7 +213,7 @@
     @media (min-width: 576px){
 
         .modal-dialog {
-            max-width: 550px !important;
+            /* max-width: 550px !important; */
             margin: 1.75rem auto;
         }
     } 
