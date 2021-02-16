@@ -14,14 +14,14 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
                 <a href="#" class="nav-link-design" href="index.html">HOME <span class="sr-only">(current)</span></a>
             </li>
             <li class="font-25 mr-4" data-aos="fade-right" data-aos-delay="700" data-aos-duration="200">
-                <a href="#" class="nav-link-design" href="services.html">SERVIECE</a>
+                <a href="#" class="nav-link-design" href="services.html">SERVICES</a>
             </li>
 
             <li class=" font-25 mr-4" data-aos="fade-right" data-aos-delay="600" data-aos-duration="200">
                 <a href="#" class="nav-link-design disabled" href="portfolio.html">PORTFOLIO</a>
             </li>
             <li class="font-25 border-bottom-style" data-aos="fade-right" data-aos-delay="500" data-aos-duration="200">
-                <a href="#" class="nav-link-design" href="about.html">ABOUT US</a>
+                <a href="#" class="nav-link-design" href="about.html">ABOUT us</a>
             </li>
 
 
@@ -37,14 +37,14 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
                 <a  class="nav-link-design" href="index.html">WEB  DEVLOPMENT <span class="sr-only">(current)</span></a>
             </li>
             <li class="" >
-                <a  class="nav-link-design" href="services.html">SERVIECE</a>
+                <a  class="nav-link-design" href="services.html">SERVICES</a>
             </li>
 
             <li class="" >
                 <a  class="nav-link-design disabled" href="portfolio.html">PORTFOLIO</a>
             </li>
             <li class="" >
-                <a  class="nav-link-design" href="about.html">ABOUT US</a>
+                <a  class="nav-link-design" href="about.html">ABOUT us</a>
             </li>
             <li class="" >
                 <a  class="nav-link-design" href="index.html">HOME <span class="sr-only">(current)</span></a>
@@ -112,7 +112,7 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
                 <li class="nav-item   " role="presentation " id="navbarid4"><a class="nav-link font-25 nav-link-design p-0" href="blog.html">Blog</a></li>
                 <li class="nav-item  " role="presentation " id="navbarid5"><a class="nav-link  font-25 nav-link-design p-0" href="contact.html">Contact</a></li>
                 <li class="nav-item   " role="presentation "  id="navbarid6">
-                    <a class="nav-link font-25 nav-link-design p-0" href="about.html">About US</a>
+                    <a class="nav-link font-25 nav-link-design p-0" href="about.html">About us</a>
                 </li>
             </ul>
         </div>
