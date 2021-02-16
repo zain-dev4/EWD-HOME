@@ -12,8 +12,19 @@
     }
     
     /* css */
-
-
+    .h-579px{
+    height: 579.84px;
+    }
+         
+  .cl-blue{
+   
+    color: #009aee;
+ font-weight: bolder;
+ text-decoration: none !important;
+  }
+  a{
+      text-decoration: none !important;
+  }
     .myImg {
         border-radius: 5px;
         cursor: pointer;
