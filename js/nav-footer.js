@@ -32,7 +32,7 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
 
         <h1 class="text-darkanimate__animated animate__bounce animate__delay-3s mt-2 mb-4">QUICK LINKS</h1>
 
-        <ul style="list-style-type:circle; margin-left: 10%;" class="list-unstyled para-height-40">
+        <ul style="list-style-type:circle; margin-left: 10%;    color: #019ff1;" class="list-unstyled para-height-40">
             <li class="" >
                 <a  class="nav-link-design" href="index.html">WEB  DEVLOPMENT <span class="sr-only">(current)</span></a>
             </li>
