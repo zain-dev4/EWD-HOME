@@ -124,14 +124,21 @@
       }
       @media only screen and (min-width: 1300px){
         .close {
-            top: -7% !important;
-            right: 0% !important;
+            top: 1% !important;
+            right: -4% !important;
 
         }
 
 
       }
-
+   .img_text_bottom{
+    position: absolute;
+    margin: auto;
+    right: 41%;
+    color: #fff;
+    bottom: 31px;
+    background-color: #80808038;
+   }
 
     /* end */
     .nav-items-design {
