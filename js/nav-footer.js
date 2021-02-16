@@ -1,4 +1,4 @@
-document.getElementById("footer").innerHTML=` <div class=" bg-light container-fluid pt-5  mt-5 ">
+document.getElementById("footer").innerHTML = ` <div class=" bg-light container-fluid pt-5  mt-5 ">
 
 <div class="row justify-content-around">
     
@@ -96,11 +96,11 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
         <a href="skype:maqsood890?chat" class="color-skype" target="_blank"><i class="fa fa-skype text-white"></i></a>
         <a href="https://api.whatsapp.com/send?phone=923332793279&amp;text=&amp;source=&amp;data=" class="color-whatsapp" target="_blank"><i class="fa fa-whatsapp text-white"></i></a>
     </div>`;
-   
-   
-   
-   
-    document.getElementById("navbar").innerHTML=` 
+
+
+
+
+document.getElementById("navbar").innerHTML = ` 
     
     <div class="border" style="height: 40px;">
 
