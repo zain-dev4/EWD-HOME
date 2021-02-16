@@ -15,9 +15,12 @@
 .h-180{
     height: 180px;
 }
-a{
+/* .nav-item{
+    padding-right: 30px;
+} */
+/* a{
     background-color: transparent !important;
-}
+} */
 .mu-top-icon
 {
     background: -webkit-linear-gradient(#02A3F4, #02A3F4, #007EDB);
