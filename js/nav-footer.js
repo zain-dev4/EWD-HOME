@@ -83,7 +83,7 @@ document.getElementById("footer").innerHTML = ` <div class=" bg-light container-
 </div>
 
 </div>
-<div class="container-fluid  ml-0 mr-0 p-0">
+<div class="container-fluid  ">
 <div class="row bg-footer">
 
     <div class="col-md-12 text-center text-white font-15">
@@ -117,17 +117,17 @@ document.getElementById("navbar").innerHTML = `
             <div class="col-lg-4 col-md-4 col-sm-4">
 
 
-                <div class="wrapper d-flex align-items-center justify-content-center pl-4"><a class="bg-transparent" href="#"
+                <div class="wrapper d-flex align-items-center justify-content-center pl-4"><a class="bg-transparent" href="https://twitter.com/EwdTech"
                         style="margin-right: 21px;font-size: 22px;">
                         <i class="wgl-icon fa fa-twitter mu-top-icon"></i>
                     </a>
-                    <a class="bg-transparent" href="#" style="margin-right: 21px;font-size: 22px;">
+                    <a class="bg-transparent" href="https://www.facebook.com/EWDTech/?view_public_for=104030004688550" style="margin-right: 21px;font-size: 22px;">
                         <i class="wgl-icon fa fa-facebook mu-top-icon"></i>
                     </a>
-                    <a class="bg-transparent" href="#" style="margin-right: 21px;font-size: 22px;">
+                    <a class="bg-transparent" href="https://www.linkedin.com/company/ewdtech" style="margin-right: 21px;font-size: 22px;">
                         <i class="wgl-icon fa fa-linkedin  mu-top-icon"></i>
                     </a>
-                    <a class="bg-transparent" href="#" style="font-size: 22px;">
+                    <a class="bg-transparent" href="https://www.instagram.com/ewdtech/" style="font-size: 22px;">
                         <i class="wgl-icon fa fa-instagram  mu-top-icon"></i>
                     </a>
 
