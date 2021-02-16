@@ -137,7 +137,8 @@
     right: 41%;
     color: #fff;
     bottom: 14px;
-    background-color: #80808038;
+    /* background-color: rgb(128 128 128 / 31%); */
+    background-color: rgb(67 75 131 / 32%);
    }
 
     /* end */
