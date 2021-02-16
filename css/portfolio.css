@@ -106,7 +106,7 @@
       }
       @media only screen and (min-width: 1300px){
         .close {
-            top: -3% !important;
+            top: -7% !important;
             right: -63% !important;
 
         }
@@ -124,7 +124,15 @@
         border-bottom: 1px solid #81bce9;
         margin-right: 5%;
     }
-    
+    .close {
+        float: right;
+        font-size: 1.5rem;
+        font-weight: 700;
+        line-height: 1;
+        color: #0000 !important;
+        text-shadow: 0 1px 0 #fff;
+        opacity: .5;
+    }
     .nav-link-design {
         background: -webkit-linear-gradient(#02A3F4, #02A3F4, #007EDB);
         -webkit-background-clip: text;
@@ -312,7 +320,18 @@
     .bg-input-5 {
         padding-left: 16%;
     }
-    
+    .bg_image{
+        background-image: url('/images/Web\ 1920\ –\ 1.jpg');
+        background-size: cover;
+    }
+    .carousel-control.left  {
+
+         background-image: none !important; 
+    }
+    .carousel-control.right  {
+
+        background-image: none !important; 
+   }
     .bg-input:focus {
         /* box-shadow: 0 0 3px #1670BE; */
         outline-offset: 0px;
