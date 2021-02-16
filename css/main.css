@@ -15,3 +15,11 @@
 .h-180{
     height: 180px;
 }
+
+.mu-top-icon
+{
+    background: -webkit-linear-gradient(#02A3F4, #02A3F4, #007EDB);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: none!important;
+}
