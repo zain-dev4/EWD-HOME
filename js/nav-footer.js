@@ -100,7 +100,80 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
    
    
    
-    document.getElementById("navbar").innerHTML=` <nav class=" ml-3 mr-3 navbar navbar-dark navbar-expand-lg " id="app-navbar">
+    document.getElementById("navbar").innerHTML=` 
+    
+    <div class="border" style="height: 40px;">
+
+    <div class="container-fluid pl-5">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm9-6">
+
+                <div class="pt-2"><a class="nav-link-design" href="index.html"><i class="fa fa-envelope "></i>
+                        support@ewdtech.com <span class="sr-only">(current)</span></a></div>
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-2"></div>
+
+            <div class="col-lg-4 col-md-4 col-sm-4">
+
+
+                <div class="wrapper d-flex align-items-center justify-content-center pl-4"><a href="https://twitter.com/Tek2d1"
+                        style="margin-right: 21px;font-size: 13px;">
+                        <i class="wgl-icon fa fa-twitter mu-top-icon"></i>
+                    </a>
+                    <a href="https://www.facebook.com/tek2d" style="margin-right: 21px;font-size: 13px;">
+                        <i class="wgl-icon fa fa-facebook mu-top-icon"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/tek2d" style="margin-right: 21px;font-size: 13px;">
+                        <i class="wgl-icon fa fa-linkedin  mu-top-icon"></i>
+                    </a>
+                    <a href="https://www.instagram.com/tek2d" style="font-size: 13px;">
+                        <i class="wgl-icon fa fa-instagram  mu-top-icon"></i>
+                    </a>
+
+                    <div class="delimiter"
+                        style="height: 40px;width: 1px;background-color: rgba(45,45,66,0.1);margin-left:27px;margin-right:28px;">
+                    </div>
+
+                    <div class="bottom_header html5_editor header_render_editor header_render">
+                        <div class="wrapper"><a href="/landing-offer/#form"><span 
+                        style="background: -webkit-linear-gradient(#02A3F4, #02A3F4, #007EDB);
+                        -webkit-background-clip: text;
+                        -webkit-text-fill-color: transparent;
+                        text-decoration: none!important; font-weight: bold;">Get A Quote</span></a>
+                        </div>
+                    </div>
+
+                    <div class="delimiter"
+                    style="height: 40px;width: 1px;background-color: rgba(45,45,66,0.1);margin-left:27px;margin-right:28px;">
+                </div>
+
+                </div>
+
+
+
+
+
+
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <nav class=" ml-3 mr-3 navbar navbar-dark navbar-expand-lg " id="app-navbar">
     <div class="container-fluid">
         <img src="./images/logo-8.png">
         <a class="navbar-brand" href="#"></a><button data-toggle="collapse" class="navbar-toggler text-info" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon  fa fa-bars text-dark"></span></button>
