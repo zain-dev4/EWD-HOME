@@ -36,7 +36,7 @@
 .nav-items-design {
     background: -webkit-linear-gradient(#02A3F4, #02A3F4, #007EDB);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    /* -webkit-text-fill-color: transparent; */
     font-size: 1.5rem;
     border-bottom: 1px solid #81bce9;
     margin-right: 5%;
