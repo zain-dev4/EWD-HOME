@@ -1,4 +1,4 @@
-document.getElementById("footer").innerHTML=` <div class=" bg-light container-fluid pt-5  mt-5 ">
+document.getElementById("footer").innerHTML = ` <div class=" bg-light container-fluid pt-5  mt-5 ">
 
 <div class="row justify-content-around">
     
@@ -32,7 +32,7 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
 
         <h1 class="text-darkanimate__animated animate__bounce animate__delay-3s mt-2 mb-4">QUICK LINKS</h1>
 
-        <ul style="list-style-type:circle; margin-left: 10%;" class="list-unstyled para-height-40">
+        <ul style="list-style-type:circle; margin-left: 10%;    color: #019ff1;" class="list-unstyled para-height-40">
             <li class="" >
                 <a  class="nav-link-design" href="index.html">WEB  DEVLOPMENT <span class="sr-only">(current)</span></a>
             </li>
@@ -83,7 +83,7 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
 </div>
 
 </div>
-<div class="container-fluid mt-4 ">
+<div class="container-fluid  pl-0 pr-0">
 <div class="row bg-footer">
 
     <div class="col-md-12 text-center text-white font-15">
@@ -96,11 +96,11 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
         <a href="skype:maqsood890?chat" class="color-skype" target="_blank"><i class="fa fa-skype text-white"></i></a>
         <a href="https://api.whatsapp.com/send?phone=923332793279&amp;text=&amp;source=&amp;data=" class="color-whatsapp" target="_blank"><i class="fa fa-whatsapp text-white"></i></a>
     </div>`;
-   
-   
-   
-   
-    document.getElementById("navbar").innerHTML=` 
+
+
+
+
+document.getElementById("navbar").innerHTML = ` 
     
     <div class="border" style="height: 40px;">
 
@@ -117,17 +117,17 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
             <div class="col-lg-4 col-md-4 col-sm-4">
 
 
-                <div class="wrapper d-flex align-items-center justify-content-center pl-4"><a class="bg-transparent" href="#"
-                        style="margin-right: 21px;font-size: 13px;">
+                <div class="wrapper d-flex align-items-center justify-content-center pl-4"><a class="bg-transparent" href="https://twitter.com/EwdTech"
+                        style="margin-right: 21px;font-size: 22px;">
                         <i class="wgl-icon fa fa-twitter mu-top-icon"></i>
                     </a>
-                    <a class="bg-transparent" href="#" style="margin-right: 21px;font-size: 13px;">
+                    <a class="bg-transparent" href="https://www.facebook.com/EWDTech/?view_public_for=104030004688550" style="margin-right: 21px;font-size: 22px;">
                         <i class="wgl-icon fa fa-facebook mu-top-icon"></i>
                     </a>
-                    <a class="bg-transparent" href="#" style="margin-right: 21px;font-size: 13px;">
+                    <a class="bg-transparent" href="https://www.linkedin.com/company/ewdtech" style="margin-right: 21px;font-size: 22px;">
                         <i class="wgl-icon fa fa-linkedin  mu-top-icon"></i>
                     </a>
-                    <a class="bg-transparent" href="#" style="font-size: 13px;">
+                    <a class="bg-transparent" href="https://www.instagram.com/ewdtech/" style="font-size: 22px;">
                         <i class="wgl-icon fa fa-instagram  mu-top-icon"></i>
                     </a>
 
@@ -136,7 +136,7 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
                     </div>
 
                     <div class="bottom_header html5_editor header_render_editor header_render">
-                        <div class="wrapper"><a class="bg-transparent" href="/landing-offer/#form"><span 
+                        <div class="wrapper"><a class="bg-transparent text-decoration-none" href="#"><span 
                         style="background: -webkit-linear-gradient(#02A3F4, #02A3F4, #007EDB);
                         -webkit-background-clip: text;
                         -webkit-text-fill-color: transparent;
@@ -174,7 +174,7 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
     
     
     <nav class=" ml-3 mr-3 navbar navbar-dark navbar-expand-lg " id="app-navbar">
-    <div class="container-fluid">
+    <div class="container-fluid ">
         <img src="./images/logo-8.png">
         <a class="navbar-brand" href="#"></a><button data-toggle="collapse" class="navbar-toggler text-info" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon  fa fa-bars text-dark"></span></button>
         <div class="collapse navbar-collapse" id="navcol-1">
@@ -182,10 +182,10 @@ document.getElementById("footer").innerHTML=` <div class=" bg-light container-fl
                 <li class="nav-item    " role="presentation " id="navbarid1"><a class="nav-link font-25 nav-link-design p-0" href="index.html" >Home</a></li>
                 <li class="nav-item  " role="presentation " id="navbarid2"><a class="nav-link font-25 nav-link-design p-0" href="services.html">Services</a></li>
                 <li class="nav-item  " role="presentation " id="navbarid3"><a class="nav-link font-25 nav-link-design p-0" href="portfolio.html">Portfolio</a></li>
-                <li class="nav-item   " role="presentation " id="navbarid4"><a class="nav-link font-25 nav-link-design p-0" href="blog.html">Blog</a></li>
+                <li class="nav-item   " role="presentation " id="navbarid4"><a class="nav-link font-25 nav-link-design p-0 pr-1" href="blog.html">Blog</a></li>
                 <li class="nav-item  " role="presentation " id="navbarid5"><a class="nav-link  font-25 nav-link-design p-0" href="contact.html">Contact</a></li>
                 <li class="nav-item   " role="presentation "  id="navbarid6">
-                    <a class="nav-link font-25 nav-link-design p-0" href="about.html">About us</a>
+                    <a class="nav-link font-25 nav-link-design p-0 pl-1" href="about.html">About us</a>
                 </li>
             </ul>
         </div>

@@ -12,8 +12,19 @@
     }
     
     /* css */
-
-
+    .h-579px{
+    height: 579.84px;
+    }
+         
+  .cl-blue{
+   
+    color: #009aee;
+ font-weight: bolder;
+ text-decoration: none !important;
+  }
+  a{
+      text-decoration: none !important;
+  }
     .myImg {
         border-radius: 5px;
         cursor: pointer;
@@ -42,10 +53,17 @@
         margin: auto;
         display: block;
         width: 100%;
-        max-width: 700px;
+        /* max-width: 700px; */
         background-color: transparent;
       }
-      
+      @media (min-width: 576px){
+.modal-dialog {
+    max-width: 100% !important;
+    margin: 0px !important;
+    padding: 80px;
+    margin-top: -171px !important;
+}
+
       /* Caption of Modal Image */
       #caption {
         margin: auto;
@@ -106,14 +124,31 @@
       }
       @media only screen and (min-width: 1300px){
         .close {
-            top: -7% !important;
-            right: -63% !important;
+            top: 1% !important;
+            right: -4% !important;
 
         }
 
 
       }
+   .img_text_bottom{
+    
+    margin: auto;
+    margin-top: -48PX;
+    /* right: 41%; */
+    color: #fff;
+    height: 50px;
+    bottom: 14px;
+    /* background-color: rgb(128 128 128 / 31%); */
+    background-color: rgb(67 75 131 / 32%);
+    Z-INDEX: 1;
+    position: relative;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
 
+   }
 
     /* end */
     .nav-items-design {
@@ -195,7 +230,7 @@
     @media (min-width: 576px){
 
         .modal-dialog {
-            max-width: 550px !important;
+            /* max-width: 550px !important; */
             margin: 1.75rem auto;
         }
     } 
