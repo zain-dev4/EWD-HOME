@@ -87,7 +87,7 @@ document.getElementById("footer").innerHTML = ` <div class=" bg-light container-
 <div class="row bg-footer">
 
     <div class="col-md-12 text-center text-white font-15">
-        <p class="pt-1">Copy Right &copy; EWDTECH All Right Resevred</p>
+        <p class="pt-3">Copy Right &copy; EWDTECH All Right Reserved</p>
     </div>
 </div>
 
