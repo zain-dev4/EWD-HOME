@@ -10,20 +10,33 @@
         width: 55rem;
         padding-top: 12px; */
     }
+    #img_styl{
+        display: none  !important;
+    }
+   
+   
     
     /* css */
     .h-579px{
     height: 579.84px;
     }
-         
+         .h-884{
+            height: 400px;
+            overflow: hidden;
+         }
   .cl-blue{
    
     color: #009aee;
  font-weight: bolder;
  text-decoration: none !important;
   }
+
   a{
       text-decoration: none !important;
+   
+  }
+  .cl-blue{
+    color: #009aee !important;
   }
     .myImg {
         border-radius: 5px;
@@ -79,6 +92,12 @@
           padding: 0px  !important;
 
       }
+
+      /* //////
+      *
+      
+      /
+      
       /* Add Animation */
       .modal-content, #caption {  
         -webkit-animation-name: zoom;
@@ -134,21 +153,29 @@
    .img_text_bottom{
     
     margin: auto;
-    margin-top: -48PX;
+    /* margin-top: -48PX; */
     /* right: 41%; */
-    color: #fff;
+    color: #fff !important;
     height: 50px;
-    bottom: 14px;
+    /* bottom: 14px; */
     /* background-color: rgb(128 128 128 / 31%); */
-    background-color: rgb(67 75 131 / 32%);
+    box-shadow: inset 0px 0px 69px 0px #000000b0;
     Z-INDEX: 1;
-    position: relative;
+    position: absolute;
+    /* position: relative; */
+    width: 93%;
+    top: 0px;
     font-weight: bolder;
     display: flex;
     align-items: center;
     padding-left: 15px;
+    font-size: 20px;
+    letter-spacing: 1px;
 
    }
+   /* .h-500{
+       height: 489px !important;
+   } */
 
     /* end */
     .nav-items-design {
@@ -708,4 +735,4 @@
         .modal-backdrop{
 display: none;
         } 
-        
+    }
