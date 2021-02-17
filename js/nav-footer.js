@@ -83,11 +83,11 @@ document.getElementById("footer").innerHTML = ` <div class=" bg-light container-
 </div>
 
 </div>
-<div class="container-fluid  ">
+<div class="container-fluid  pl-0">
 <div class="row bg-footer">
 
     <div class="col-md-12 text-center text-white font-15">
-        <p class="pt-1">Copy Right &copy; EWDTECH All Right Resevred</p>
+        <p class="pt-3">Copy Right &copy; EWDTECH All Right Reserved</p>
     </div>
 </div>
 
@@ -174,7 +174,7 @@ document.getElementById("navbar").innerHTML = `
     
     
     <nav class=" ml-3 mr-3 navbar navbar-dark navbar-expand-lg " id="app-navbar">
-    <div class="container-fluid">
+    <div class="container-fluid ">
         <img src="./images/logo-8.png">
         <a class="navbar-brand" href="#"></a><button data-toggle="collapse" class="navbar-toggler text-info" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon  fa fa-bars text-dark"></span></button>
         <div class="collapse navbar-collapse" id="navcol-1">
@@ -182,10 +182,10 @@ document.getElementById("navbar").innerHTML = `
                 <li class="nav-item    " role="presentation " id="navbarid1"><a class="nav-link font-25 nav-link-design p-0" href="index.html" >Home</a></li>
                 <li class="nav-item  " role="presentation " id="navbarid2"><a class="nav-link font-25 nav-link-design p-0" href="services.html">Services</a></li>
                 <li class="nav-item  " role="presentation " id="navbarid3"><a class="nav-link font-25 nav-link-design p-0" href="portfolio.html">Portfolio</a></li>
-                <li class="nav-item   " role="presentation " id="navbarid4"><a class="nav-link font-25 nav-link-design p-0" href="blog.html">Blog</a></li>
+                <li class="nav-item   " role="presentation " id="navbarid4"><a class="nav-link font-25 nav-link-design p-0 pr-1" href="blog.html">Blog</a></li>
                 <li class="nav-item  " role="presentation " id="navbarid5"><a class="nav-link  font-25 nav-link-design p-0" href="contact.html">Contact</a></li>
                 <li class="nav-item   " role="presentation "  id="navbarid6">
-                    <a class="nav-link font-25 nav-link-design p-0" href="about.html">About us</a>
+                    <a class="nav-link font-25 nav-link-design p-0 pl-1" href="about.html">About us</a>
                 </li>
             </ul>
         </div>

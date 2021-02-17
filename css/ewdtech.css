@@ -689,7 +689,7 @@ padding-top: 100px;
 @media screen and (max-width:1748px) {
     .imag-column {
       
-        top: 12%!important;
+        top: 22%!important;
       
     }
 }
@@ -711,7 +711,7 @@ padding-top: 100px;
 @media screen and (max-width:1600px) {
     .imag-column {
       
-        top: 6%!important;
+        top: 20%!important;
       
     }
 }
@@ -767,7 +767,7 @@ padding-top: 100px;
 @media screen and (max-width:1372px) {
     .imag-column {
       
-        top: 0%!important;
+        top: 15%!important;
       
     }
 }
@@ -978,6 +978,11 @@ font-size: 2.5rem;
     .mu-pl-75
     {
         padding-left: 75px;
+    }
+
+    .mu-pl-60px
+    {
+        padding-left: 60px;
     }
 
 

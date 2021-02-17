@@ -6,7 +6,8 @@ canvas {
 #particles-js {
     background-image: url('../images/blog.png');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    
     /* max-width: 100%;
     height: auto; */
 }
@@ -40,3 +41,15 @@ a:hover,
 a:focus {
     color: #ba160c;
 }
+
+@media screen  and  (min-width:1800px)  and  (max-width:1920px) {
+    #particles-js{    
+       background-size: contain;
+    }
+    
+   
+}
+
+
+
+
