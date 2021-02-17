@@ -83,7 +83,7 @@ document.getElementById("footer").innerHTML = ` <div class=" bg-light container-
 </div>
 
 </div>
-<div class="container-fluid  pl-0 pr-0">
+<div class="container-fluid  pl-0 ">
 <div class="row bg-footer">
 
     <div class="col-md-12 text-center text-white font-15">
