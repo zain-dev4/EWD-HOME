@@ -6,7 +6,7 @@ canvas {
 #particles-js {
     background-image: url('../images/blog.png');
     background-repeat: no-repeat;
-    /* background-size: cover; */
+    background-size: cover;
     
     /* max-width: 100%;
     height: auto; */
@@ -42,18 +42,12 @@ a:focus {
     color: #ba160c;
 }
 
-@media screen (min-width: 1800px) and (max-width:1920px) {
-    #particles-js {    
+@media screen and (max-width:1919px) {
+    #particles-js{    
        background-size: contain;
     }
     
    
 }
 
-@media screen (min-width: 768px) and (max-width:1799px) {
-    #particles-js {    
-       background-size: cover;
-    }
-    
-   
-}
+
