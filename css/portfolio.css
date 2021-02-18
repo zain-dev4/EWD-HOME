@@ -73,7 +73,9 @@
 .modal-dialog {
     max-width: 100% !important;
     margin: 0px !important;
-    padding: 80px;
+    padding-left: 168px !important;
+    padding-right: 168px !important;
+    padding: 81px;
     margin-top: -171px !important;
 }
 
@@ -169,7 +171,7 @@
     display: flex;
     align-items: center;
     padding-left: 15px;
-    font-size: 20px;
+    font-size: 18px;
     letter-spacing: 1px;
 
    }
