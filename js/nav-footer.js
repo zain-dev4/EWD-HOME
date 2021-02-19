@@ -175,7 +175,7 @@ document.getElementById("navbar").innerHTML = `
     
     <nav class=" ml-3 mr-3 navbar navbar-dark navbar-expand-lg " id="app-navbar">
     <div class="container-fluid ">
-        <img src="./images/logo-8.png">
+        <img src="./images/EWD-8.png">
         <a class="navbar-brand" href="#"></a><button data-toggle="collapse" class="navbar-toggler text-info" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon  fa fa-bars text-dark"></span></button>
         <div class="collapse navbar-collapse" id="navcol-1">
             <ul class="nav navbar-nav ml-auto justify-content-around pl-5 pr-5">
